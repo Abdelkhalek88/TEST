@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: right;
+    color:rgba(0,0,0,0.87);
+    text-decoration: none;
+    font-family: sans-serif;
+    justify-content: flex-end;
+}
+p{
+    justify-content: space-around;
+    margin: 1rem;
+    flex-direction:row-reverse;
+    
+}
+a{
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+}
+.login{
+    background-color: cornflowerblue;
+    padding: 0px 5px 0px 5px;
+}
